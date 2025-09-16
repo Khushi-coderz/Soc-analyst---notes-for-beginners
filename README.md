@@ -1,0 +1,1 @@
+# Soc-analyst---notes-for-beginners
