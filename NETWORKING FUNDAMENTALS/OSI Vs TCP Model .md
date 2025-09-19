@@ -1,2 +1,2 @@
 ![screenshot]
-(./Screenshot 2025-09-16_202233.png)
+(./Screenshot_2025-09-16%20202233.png)
